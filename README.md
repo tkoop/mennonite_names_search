@@ -21,4 +21,4 @@ This might take a few minutes to run. This only needs to be done once.
 
 ## Now search the database
 
-- `node search.mjs`
+- `node query.mjs`
