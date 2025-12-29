@@ -1,0 +1,11 @@
+{
+  "name": "Mennonite Person Search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "createdb": "node createdb.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
